@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+.circle{
+	width: 500px;
+	height: 500px;
+	clip-path: circle(50% at 50% 50%);
+	border-top: 20px solid;
+	border-radius: 50%;
+	@apply bg-green-400 absolute top-[350px] right-[-10px]  
+	bg-gradient-to-t from-amber-300 to-amber-800 z-10
+
+}
