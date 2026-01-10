@@ -27,7 +27,7 @@ export function Nav1({
  ${ulclassName}`}
   >
 
-  <li><a href="https://www.youtube.com/watch?v=sbMHR9K60NY">Home</a></li>
+  <li><a href="">Home</a></li>
   <li><a href="">About</a></li>
   <li><a href="">Section</a></li>
   <li><a href="">Course</a></li>
