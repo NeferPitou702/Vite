@@ -1,5 +1,5 @@
 import Button from './Buttons'
-import {menuIcon} from '../Components/svg.jsx'
+import MenuIcon from '../Components/svg.jsx'
 export function Nav1({
 
   ulclassName,
@@ -38,7 +38,7 @@ export function Nav1({
 <div>
 <Button text={btn1text} className={`  ${btn1className}`}></Button>
 <Button text={btn2text} className={` ${btn2className}`}></Button>
-<img src={menuIcon} className='md:hidden'/>
+<img src={MenuIcon} className='md:hidden'/>
 </div>
 
 
