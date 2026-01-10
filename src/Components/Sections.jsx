@@ -14,7 +14,10 @@ return(
 
 export function Section1({
 
-img, h1, p}){
+img, h1, p
+
+
+}){
 
 
 return(
