@@ -15,7 +15,7 @@ Error generating stack: `+u.message+`
                 ${p}`,children:[r.jsx("div",{}),r.jsx("div",{}),r.jsx("div",{})]})}function c3({ulclassName:p,className:J,LogoTitle:Z,btn1className:h,btn2className:G,listclassName:w,btn1text:yl,btn2text:_l}){return r.jsxs("div",{className:` justify-between
  items-center flex w-full flex-row
  sticky ${J}`,children:[r.jsx("div",{children:r.jsx("h1",{className:"tracking-tight text-4xl sm:text-3xl",children:Z})}),r.jsxs("ul",{className:`list-none flex space-x-29 [&>li]:${w}
- ${p}`,children:[r.jsx("li",{children:r.jsx("a",{href:"https://www.youtube.com/watch?v=sbMHR9K60NY",children:"Home"})}),r.jsx("li",{children:r.jsx("a",{href:"",children:"About"})}),r.jsx("li",{children:r.jsx("a",{href:"",children:"Section"})}),r.jsx("li",{children:r.jsx("a",{href:"",children:"Course"})})]}),r.jsxs("div",{children:[r.jsx(M2,{text:yl,className:`  ${h}`}),r.jsx(M2,{text:_l,className:` ${G}`}),r.jsx(f3,{iconClassName:" md:hidden"})]})]})}function i3({ulclassName:p,className:J,LogoTitle:Z,btn1className:h,btn2className:G,listclassName:w}){return r.jsxs("div",{className:`
+ ${p}`,children:[r.jsx("li",{children:r.jsx("a",{href:"",children:"Home"})}),r.jsx("li",{children:r.jsx("a",{href:"",children:"About"})}),r.jsx("li",{children:r.jsx("a",{href:"",children:"Section"})}),r.jsx("li",{children:r.jsx("a",{href:"",children:"Course"})})]}),r.jsxs("div",{children:[r.jsx(M2,{text:yl,className:`  ${h}`}),r.jsx(M2,{text:_l,className:` ${G}`}),r.jsx(f3,{iconClassName:" md:hidden"})]})]})}function i3({ulclassName:p,className:J,LogoTitle:Z,btn1className:h,btn2className:G,listclassName:w}){return r.jsxs("div",{className:`
 navbar justify-between
  items-center flex backdrop-blur-md z-30  
 fixed top-0 md:top-1 left-1/6 lg:!left-1/3 hidden md:block
